@@ -1,3 +1,5 @@
+Program for Karp's Clique problem. 
+
 Instructions on use of program:
 Arguments to main:
 
