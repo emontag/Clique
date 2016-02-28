@@ -1,0 +1,24 @@
+Input file is input.txt
+Population size: 1000
+Number of Generations Possible: 100
+Fitness Threshold: 100
+Percentage used in mating: 10
+Crossover rate: 95
+Mutation rate: 3
+Generation number 0
+Total fitness possible: 30
+Frequency of fitness score 0: 398
+Frequency of fitness score 10: 267
+Frequency of fitness score 20: 265
+Frequency of fitness score 30: 70
+Individual 1 fits criteria for threshold! 
+1 6 9 
+Current Generation is 0
+Start of Brute Force: 
+0 1 2 
+0 1 3 
+0 1 4 
+0 1 5 
+0 1 6 
+0 1 7 
+The answer above is correct
